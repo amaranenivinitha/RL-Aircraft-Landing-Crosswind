@@ -486,7 +486,7 @@ A detailed project report including:
 
 is available in:
 
-📄 `report/RL_Autonomous_Landing_Report.pdf`
+📄 report/RL_Autonomous_Landing_Report.pdf
 
 ---
 
